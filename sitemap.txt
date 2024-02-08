@@ -1,0 +1,5 @@
+http://example.com/2024/02/10/post-title-with-whitespace/
+http://example.com/2024/02/05/hello-world/
+http://example.com/
+http://example.com/tags/A/
+http://example.com/categories/test/
