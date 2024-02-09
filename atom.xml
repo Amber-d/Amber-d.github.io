@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-09T01:51:14.380Z</updated>
+  <updated>2024-02-09T01:54:00.799Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2024/02/10/post-title-with-whitespace/"/>
     <id>http://example.com/2024/02/10/post-title-with-whitespace/</id>
     <published>2024-02-09T16:00:00.000Z</published>
-    <updated>2024-02-09T01:51:14.380Z</updated>
+    <updated>2024-02-09T01:54:00.799Z</updated>
     
     <content type="html"><![CDATA[<span id="more"></span><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sd</span><br></pre></td></tr></table></figure><p>我是谁</p><p><img src="https://ts1.cn.mm.bing.net/th/id/R-C.466bb61cd7cf4e8b7d9cdf645add1d6e?rik=YRZKRLNWLutoZA&riu=http://222.186.12.239:10010/wmxs_161205/002.jpg&ehk=WEy01YhyfNzzQNe1oIqxwgbTnzY7dMfmZZHkqpZB5WI=&risl=&pid=ImgRaw&r=0"></p><p><img src="https://picdm.sunbangyan.cn/2024/02/07/3c69594f2ba657dd42b9dfd886d8ca1f.jpeg" alt="2"><br>$$<br>a&#x3D;b<br>$$</p>]]></content>
     
@@ -32,6 +32,12 @@
     
     <category term="test" scheme="http://example.com/categories/test/"/>
     
+    
+    <category term="A" scheme="http://example.com/tags/A/"/>
+    
+    <category term="B" scheme="http://example.com/tags/B/"/>
+    
+    <category term="C" scheme="http://example.com/tags/C/"/>
     
   </entry>
   
